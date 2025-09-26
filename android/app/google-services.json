@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610630473879",
+    "project_id": "bloodwave-94715",
+    "storage_bucket": "bloodwave-94715.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610630473879:android:658cdc03269ce0d994f1d2",
+        "android_client_info": {
+          "package_name": "com.example.bloodwave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6FuCXHw2thQbZpY_d4mOYbVqwguwfcK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

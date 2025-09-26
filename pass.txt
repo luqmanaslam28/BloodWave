@@ -1,0 +1,11 @@
+Hospital
+Email:mumtazhospital@gmail.com
+Pass:MumtazHospital123
+
+Blood Bank
+Email:hussaini@gmail.com
+Pass:Hussaini123
+
+Admin
+Email:admin@gmail.com
+Pass:Admin123
